@@ -1,13 +1,13 @@
 # Javascript The Big Picture
 ### Reglas basicas de Javascript
 #### 1. Agregar JS a HTML
-#### 2. Multiples archivos de Javascript
-#### 3. Darle formato al codigo
+#### 2. Múltiples archivos de Javascript
+#### 3. Darle formato al código
 #### 4. Detectar y solucionar errores
-#### 5. Sensibilidad a mayusculas
-#### 6. Comentar el codigo
+#### 5. Sensibilidad a mayúsculas
+#### 6. Comentar el código
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI4ODY1MDUsMzE2MTkzNDI3LDE4Nz
-E1MDk0NDEsNzA0OTk2MzQzXX0=
+eyJoaXN0b3J5IjpbLTExNzA5NjczNzcsLTE5MDI4ODY1MDUsMz
+E2MTkzNDI3LDE4NzE1MDk0NDEsNzA0OTk2MzQzXX0=
 -->
