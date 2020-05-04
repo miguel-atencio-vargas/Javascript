@@ -16,13 +16,10 @@ A partir de la sexta edición (comúnmente conocida como ES2015 o ES6) en 2015, 
 Pero debido a que cada año llegan nuevas funciones y sintaxis a JavaScript, la compatibilidad con estos cambios a menudo es incompleta en los navegadores actuales y en el último nodo. Esto no significa que no podamos usarlo. Herramientas como Babel ofrecen transpilación para la mayoría de las funciones, lo que nos permite escribir como si fuera el futuro.
 
 
-Nota: Esta pista admite la última sintaxis de ECMAScript a través de Babel y el complemento @ babel / preset-env, y se habilitan nuevas características experimentales con cada actualización de ese complemento, que coincide con el lanzamiento de las especificaciones. Se adapta automáticamente a la instalación de su nodo local. Esto significa que no necesita preocuparse por lo que es y no es compatible.
- 
-Enviar comentarios
-Historial
+Nota: Esta pista admite la última sintaxis de ECMAScript a través de Babel y el complemento `@babel/preset-env`, y se habilitan nuevas características experimentales con cada actualización de ese complemento, que coincide con el lanzamiento de las especificaciones. Se adapta automáticamente a la instalación de su nodo local. Esto significa que no necesita preocuparse por lo que es y no es compatible.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDA4MzA2MjUsMTkyOTI2Mjk5NiwxOT
-U1Nzk2MjcxLC0xOTAyODg2NTA1LDMxNjE5MzQyNywxODcxNTA5
-NDQxLDcwNDk5NjM0M119
+eyJoaXN0b3J5IjpbOTc1MzI0NDA1LDE5MjkyNjI5OTYsMTk1NT
+c5NjI3MSwtMTkwMjg4NjUwNSwzMTYxOTM0MjcsMTg3MTUwOTQ0
+MSw3MDQ5OTYzNDNdfQ==
 -->
